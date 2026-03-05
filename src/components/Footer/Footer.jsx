@@ -31,6 +31,7 @@ const Footer = () => {
   </div>
   <div className='text-gray-300 text-center border-t border-gray-700 py-4 mt-10 '>
 Copyright 2024 © Real Estate. All rights Reserved.
+   ❤️ Made by Mohd Zakee ❤️
   </div>
  </div>
   )
